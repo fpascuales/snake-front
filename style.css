@@ -1,0 +1,22 @@
+#gameContent{
+    text-align: center;
+}
+
+#gameTable{
+    border: 2px solid grey;
+}
+
+#score{
+    font-size: 50px;
+}
+
+.logo{
+    width: 100px;
+}
+.cb-team{
+    width: 70px;
+}
+header, footer{
+    background-color: rgb(14, 129, 91);
+    color: white;
+}
